@@ -22,7 +22,7 @@ function ContactForm() {
           />
           <textarea
             placeholder="Your Message"
-            rows="4"
+            rows={4}
             className="w-full p-3 mb-4 bg-white text-black rounded-lg"
           ></textarea>
           <button
