@@ -4,12 +4,8 @@ A sleek, interactive, and responsive website inspired by a creative design agenc
 
 ## 🚀 Live Demo
 
-[Live Demo (Optional)](https://your-live-link.com)
+## Live Demo : (https://sundown-studio-project.vercel.app/)
 
-## 📸 Project Preview
-
-![sundown studio preview](./screenshots/sundown-preview.png)  
-*Add your screenshot in the `screenshots/` folder to display here.*
 
 ## 🔥 Key Features
 
